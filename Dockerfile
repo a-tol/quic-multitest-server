@@ -2,6 +2,9 @@ FROM ubuntu:20.04 AS build-lsquic
 
 ENV DEBIAN_FRONTEND noninteractive
 
+ENV PORT 12345
+ENV HOST 0.0.0.0
+
 RUN apt-get update && \
     apt-get install -y apt-utils build-essential git software-properties-common \
                        zlib1g-dev libevent-dev wget
@@ -60,10 +63,7 @@ RUN git clone https://github.com/h2o/quicly.git && \
 
 RUN cd quicly && cp cli /usr/bin
 
-ENV PORT 12345
-ENV HOST 0.0.0.0
-
 #todo: make msquic
 
 
-ENTRYPOINT ["http_server","-c", "localhost,./certs/cert.pem,./certs/key.pem", "-r", "/src/dummy_files"]
+ENTRYPOINT ["http_server","-c", "0.0.0.0,./certs/cert.pem,./certs/key.pem", "-r", "/src/dummy_files", "-s", "${HOST}:${PORT}"]
