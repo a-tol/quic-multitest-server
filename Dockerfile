@@ -60,6 +60,9 @@ RUN git clone https://github.com/h2o/quicly.git && \
 
 RUN cd quicly && cp cli /usr/bin
 
+ENV PORT 12345
+ENV HOST 0.0.0.0
+
 #todo: make msquic
 
 
