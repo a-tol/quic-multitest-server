@@ -1,0 +1,11 @@
+[submodule "lsquic/lsquic 2"]
+	path = lsquic/lsquic 2
+	url = https://github.com/litespeedtech/lsquic
+
+[submodule "msquic/msquic"]
+	path = msquic/msquic
+	url = https://github.com/microsoft/msquic.git
+
+[submodule "quicly/h2o"]
+	path = quicly/h2o
+	url = https://github.com/h2o/h2o.git
