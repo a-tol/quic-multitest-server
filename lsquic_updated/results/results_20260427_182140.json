@@ -1,0 +1,901 @@
+[
+  {
+    "request_num": 1,
+    "payload":     "100kb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 2,
+    "payload":     "100kb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 3,
+    "payload":     "100kb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 4,
+    "payload":     "100kb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 5,
+    "payload":     "100kb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 6,
+    "payload":     "100kb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 7,
+    "payload":     "100kb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 8,
+    "payload":     "100kb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 9,
+    "payload":     "100kb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 10,
+    "payload":     "100kb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 11,
+    "payload":     "1mb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 12,
+    "payload":     "1mb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 13,
+    "payload":     "1mb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 14,
+    "payload":     "1mb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 15,
+    "payload":     "1mb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 16,
+    "payload":     "1mb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 17,
+    "payload":     "1mb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 18,
+    "payload":     "1mb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 19,
+    "payload":     "1mb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 20,
+    "payload":     "1mb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 21,
+    "payload":     "5mb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 22,
+    "payload":     "5mb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 23,
+    "payload":     "5mb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 24,
+    "payload":     "5mb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 25,
+    "payload":     "5mb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 26,
+    "payload":     "5mb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 27,
+    "payload":     "5mb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 28,
+    "payload":     "5mb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 29,
+    "payload":     "5mb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 30,
+    "payload":     "5mb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 31,
+    "payload":     "small_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 32,
+    "payload":     "small_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 33,
+    "payload":     "small_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 34,
+    "payload":     "small_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 35,
+    "payload":     "small_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 36,
+    "payload":     "small_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 37,
+    "payload":     "small_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 38,
+    "payload":     "small_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 39,
+    "payload":     "small_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 40,
+    "payload":     "small_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 41,
+    "payload":     "medium_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 42,
+    "payload":     "medium_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 43,
+    "payload":     "medium_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 44,
+    "payload":     "medium_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 45,
+    "payload":     "medium_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 46,
+    "payload":     "medium_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 47,
+    "payload":     "medium_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 48,
+    "payload":     "medium_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 49,
+    "payload":     "medium_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 50,
+    "payload":     "medium_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 51,
+    "payload":     "large_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 52,
+    "payload":     "large_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 53,
+    "payload":     "large_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 54,
+    "payload":     "large_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 55,
+    "payload":     "large_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 56,
+    "payload":     "large_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 57,
+    "payload":     "large_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 58,
+    "payload":     "large_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 59,
+    "payload":     "large_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+,
+  {
+    "request_num": 60,
+    "payload":     "large_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  0,
+    "time_connect_s":  0.000000,
+    "time_ttfb_s":     0.000000,
+    "time_transfer_s": 0.000000,
+    "time_total_s":    0.002,
+    "speed_Bps":  0,
+    "speed_KBps": 0.000,
+    "speed_MBps": 0.000
+  }
+]

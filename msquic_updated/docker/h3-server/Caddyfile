@@ -1,0 +1,15 @@
+{
+	log {
+		output stdout
+		format console
+	}
+}
+
+# Bind to all interfaces (:4433) so Docker port-forwarding can reach it.
+# TLS cert is pre-generated with SAN=localhost by the entrypoint script.
+:4433 {
+	tls /certs/server.crt /certs/server.key
+
+	root * /payloads
+	file_server browse
+}

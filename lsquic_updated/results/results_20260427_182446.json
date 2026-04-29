@@ -1,0 +1,901 @@
+[
+  {
+    "request_num": 1,
+    "payload":     "100kb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000500,
+    "time_ttfb_s":     0.000380,
+    "time_transfer_s": 0.000310,
+    "time_total_s":    0.003,
+    "speed_Bps":  36051724,
+    "speed_KBps": 35206.762,
+    "speed_MBps": 34.382
+  }
+,
+  {
+    "request_num": 2,
+    "payload":     "100kb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000490,
+    "time_ttfb_s":     0.000430,
+    "time_transfer_s": 0.000370,
+    "time_total_s":    0.003,
+    "speed_Bps":  37710342,
+    "speed_KBps": 36826.506,
+    "speed_MBps": 35.963
+  }
+,
+  {
+    "request_num": 3,
+    "payload":     "100kb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000420,
+    "time_ttfb_s":     0.000330,
+    "time_transfer_s": 0.000340,
+    "time_total_s":    0.002,
+    "speed_Bps":  41447816,
+    "speed_KBps": 40476.383,
+    "speed_MBps": 39.528
+  }
+,
+  {
+    "request_num": 4,
+    "payload":     "100kb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000470,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.000360,
+    "time_total_s":    0.003,
+    "speed_Bps":  39651316,
+    "speed_KBps": 38721.988,
+    "speed_MBps": 37.814
+  }
+,
+  {
+    "request_num": 5,
+    "payload":     "100kb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.000400,
+    "time_total_s":    0.002,
+    "speed_Bps":  41922668,
+    "speed_KBps": 40940.105,
+    "speed_MBps": 39.981
+  }
+,
+  {
+    "request_num": 6,
+    "payload":     "100kb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000400,
+    "time_transfer_s": 0.000360,
+    "time_total_s":    0.003,
+    "speed_Bps":  40722973,
+    "speed_KBps": 39768.528,
+    "speed_MBps": 38.836
+  }
+,
+  {
+    "request_num": 7,
+    "payload":     "100kb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.000340,
+    "time_total_s":    0.003,
+    "speed_Bps":  40771588,
+    "speed_KBps": 39816.004,
+    "speed_MBps": 38.883
+  }
+,
+  {
+    "request_num": 8,
+    "payload":     "100kb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000420,
+    "time_ttfb_s":     0.000380,
+    "time_transfer_s": 0.000260,
+    "time_total_s":    0.002,
+    "speed_Bps":  43195194,
+    "speed_KBps": 42182.807,
+    "speed_MBps": 41.194
+  }
+,
+  {
+    "request_num": 9,
+    "payload":     "100kb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000410,
+    "time_ttfb_s":     0.000330,
+    "time_transfer_s": 0.000260,
+    "time_total_s":    0.002,
+    "speed_Bps":  44011598,
+    "speed_KBps": 42980.076,
+    "speed_MBps": 41.973
+  }
+,
+  {
+    "request_num": 10,
+    "payload":     "100kb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  102459,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.000390,
+    "time_total_s":    0.002,
+    "speed_Bps":  41751834,
+    "speed_KBps": 40773.275,
+    "speed_MBps": 39.818
+  }
+,
+  {
+    "request_num": 11,
+    "payload":     "1mb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000430,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.003790,
+    "time_total_s":    0.006,
+    "speed_Bps":  181330624,
+    "speed_KBps": 177080.688,
+    "speed_MBps": 172.930
+  }
+,
+  {
+    "request_num": 12,
+    "payload":     "1mb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000290,
+    "time_transfer_s": 0.003710,
+    "time_total_s":    0.006,
+    "speed_Bps":  181770671,
+    "speed_KBps": 177510.421,
+    "speed_MBps": 173.350
+  }
+,
+  {
+    "request_num": 13,
+    "payload":     "1mb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000430,
+    "time_ttfb_s":     0.000400,
+    "time_transfer_s": 0.003280,
+    "time_total_s":    0.005,
+    "speed_Bps":  193475092,
+    "speed_KBps": 188940.520,
+    "speed_MBps": 184.512
+  }
+,
+  {
+    "request_num": 14,
+    "payload":     "1mb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000390,
+    "time_transfer_s": 0.003260,
+    "time_total_s":    0.005,
+    "speed_Bps":  193904401,
+    "speed_KBps": 189359.767,
+    "speed_MBps": 184.922
+  }
+,
+  {
+    "request_num": 15,
+    "payload":     "1mb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.003840,
+    "time_total_s":    0.006,
+    "speed_Bps":  178248343,
+    "speed_KBps": 174070.647,
+    "speed_MBps": 169.991
+  }
+,
+  {
+    "request_num": 16,
+    "payload":     "1mb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000400,
+    "time_transfer_s": 0.003800,
+    "time_total_s":    0.006,
+    "speed_Bps":  176537879,
+    "speed_KBps": 172400.272,
+    "speed_MBps": 168.360
+  }
+,
+  {
+    "request_num": 17,
+    "payload":     "1mb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.003780,
+    "time_total_s":    0.006,
+    "speed_Bps":  175856951,
+    "speed_KBps": 171735.304,
+    "speed_MBps": 167.710
+  }
+,
+  {
+    "request_num": 18,
+    "payload":     "1mb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.003120,
+    "time_total_s":    0.005,
+    "speed_Bps":  199474035,
+    "speed_KBps": 194798.862,
+    "speed_MBps": 190.233
+  }
+,
+  {
+    "request_num": 19,
+    "payload":     "1mb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000430,
+    "time_ttfb_s":     0.000390,
+    "time_transfer_s": 0.003180,
+    "time_total_s":    0.005,
+    "speed_Bps":  197371542,
+    "speed_KBps": 192745.646,
+    "speed_MBps": 188.228
+  }
+,
+  {
+    "request_num": 20,
+    "payload":     "1mb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  1048635,
+    "time_connect_s":  0.000480,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.003730,
+    "time_total_s":    0.006,
+    "speed_Bps":  180425843,
+    "speed_KBps": 176197.112,
+    "speed_MBps": 172.067
+  }
+,
+  {
+    "request_num": 21,
+    "payload":     "5mb.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.016110,
+    "time_total_s":    0.018,
+    "speed_Bps":  288851248,
+    "speed_KBps": 282081.297,
+    "speed_MBps": 275.470
+  }
+,
+  {
+    "request_num": 22,
+    "payload":     "5mb.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000280,
+    "time_transfer_s": 0.013120,
+    "time_total_s":    0.015,
+    "speed_Bps":  344386429,
+    "speed_KBps": 336314.872,
+    "speed_MBps": 328.432
+  }
+,
+  {
+    "request_num": 23,
+    "payload":     "5mb.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000340,
+    "time_transfer_s": 0.014080,
+    "time_total_s":    0.016,
+    "speed_Bps":  324439295,
+    "speed_KBps": 316835.249,
+    "speed_MBps": 309.409
+  }
+,
+  {
+    "request_num": 24,
+    "payload":     "5mb.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000620,
+    "time_ttfb_s":     0.000310,
+    "time_transfer_s": 0.016230,
+    "time_total_s":    0.018,
+    "speed_Bps":  283708820,
+    "speed_KBps": 277059.395,
+    "speed_MBps": 270.566
+  }
+,
+  {
+    "request_num": 25,
+    "payload":     "5mb.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.014320,
+    "time_total_s":    0.017,
+    "speed_Bps":  316889634,
+    "speed_KBps": 309462.533,
+    "speed_MBps": 302.210
+  }
+,
+  {
+    "request_num": 26,
+    "payload":     "5mb.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.012770,
+    "time_total_s":    0.015,
+    "speed_Bps":  354228701,
+    "speed_KBps": 345926.466,
+    "speed_MBps": 337.819
+  }
+,
+  {
+    "request_num": 27,
+    "payload":     "5mb.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000400,
+    "time_transfer_s": 0.015880,
+    "time_total_s":    0.018,
+    "speed_Bps":  290628548,
+    "speed_KBps": 283816.941,
+    "speed_MBps": 277.165
+  }
+,
+  {
+    "request_num": 28,
+    "payload":     "5mb.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.012680,
+    "time_total_s":    0.015,
+    "speed_Bps":  355960282,
+    "speed_KBps": 347617.463,
+    "speed_MBps": 339.470
+  }
+,
+  {
+    "request_num": 29,
+    "payload":     "5mb.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000470,
+    "time_ttfb_s":     0.000380,
+    "time_transfer_s": 0.014230,
+    "time_total_s":    0.017,
+    "speed_Bps":  312414432,
+    "speed_KBps": 305092.219,
+    "speed_MBps": 297.942
+  }
+,
+  {
+    "request_num": 30,
+    "payload":     "5mb.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  5242939,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000390,
+    "time_transfer_s": 0.015030,
+    "time_total_s":    0.017,
+    "speed_Bps":  305088100,
+    "speed_KBps": 297937.598,
+    "speed_MBps": 290.955
+  }
+,
+  {
+    "request_num": 31,
+    "payload":     "small_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000480,
+    "time_ttfb_s":     0.000240,
+    "time_transfer_s": 0.000040,
+    "time_total_s":    0.002,
+    "speed_Bps":  9715705,
+    "speed_KBps": 9487.993,
+    "speed_MBps": 9.266
+  }
+,
+  {
+    "request_num": 32,
+    "payload":     "small_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.000040,
+    "time_total_s":    0.002,
+    "speed_Bps":  9927018,
+    "speed_KBps": 9694.354,
+    "speed_MBps": 9.467
+  }
+,
+  {
+    "request_num": 33,
+    "payload":     "small_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000320,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  9715705,
+    "speed_KBps": 9487.993,
+    "speed_MBps": 9.266
+  }
+,
+  {
+    "request_num": 34,
+    "payload":     "small_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000290,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  10102804,
+    "speed_KBps": 9866.020,
+    "speed_MBps": 9.635
+  }
+,
+  {
+    "request_num": 35,
+    "payload":     "small_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000320,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  9855566,
+    "speed_KBps": 9624.576,
+    "speed_MBps": 9.399
+  }
+,
+  {
+    "request_num": 36,
+    "payload":     "small_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000430,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  10383721,
+    "speed_KBps": 10140.353,
+    "speed_MBps": 9.903
+  }
+,
+  {
+    "request_num": 37,
+    "payload":     "small_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000410,
+    "time_ttfb_s":     0.000330,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  9917431,
+    "speed_KBps": 9684.991,
+    "speed_MBps": 9.458
+  }
+,
+  {
+    "request_num": 38,
+    "payload":     "small_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000340,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  9711111,
+    "speed_KBps": 9483.507,
+    "speed_MBps": 9.261
+  }
+,
+  {
+    "request_num": 39,
+    "payload":     "small_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000280,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  10107776,
+    "speed_KBps": 9870.875,
+    "speed_MBps": 9.640
+  }
+,
+  {
+    "request_num": 40,
+    "payload":     "small_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  20539,
+    "time_connect_s":  0.000490,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.000010,
+    "time_total_s":    0.002,
+    "speed_Bps":  9789800,
+    "speed_KBps": 9560.352,
+    "speed_MBps": 9.336
+  }
+,
+  {
+    "request_num": 41,
+    "payload":     "medium_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000300,
+    "time_transfer_s": 0.000810,
+    "time_total_s":    0.003,
+    "speed_Bps":  70983714,
+    "speed_KBps": 69320.033,
+    "speed_MBps": 67.695
+  }
+,
+  {
+    "request_num": 42,
+    "payload":     "medium_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.000780,
+    "time_total_s":    0.003,
+    "speed_Bps":  73059558,
+    "speed_KBps": 71347.225,
+    "speed_MBps": 69.675
+  }
+,
+  {
+    "request_num": 43,
+    "payload":     "medium_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.000740,
+    "time_total_s":    0.003,
+    "speed_Bps":  74930139,
+    "speed_KBps": 73173.964,
+    "speed_MBps": 71.459
+  }
+,
+  {
+    "request_num": 44,
+    "payload":     "medium_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000250,
+    "time_transfer_s": 0.000730,
+    "time_total_s":    0.003,
+    "speed_Bps":  75067424,
+    "speed_KBps": 73308.031,
+    "speed_MBps": 71.590
+  }
+,
+  {
+    "request_num": 45,
+    "payload":     "medium_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000420,
+    "time_transfer_s": 0.000750,
+    "time_total_s":    0.003,
+    "speed_Bps":  71008319,
+    "speed_KBps": 69344.062,
+    "speed_MBps": 67.719
+  }
+,
+  {
+    "request_num": 46,
+    "payload":     "medium_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000390,
+    "time_transfer_s": 0.000800,
+    "time_total_s":    0.003,
+    "speed_Bps":  70181226,
+    "speed_KBps": 68536.354,
+    "speed_MBps": 66.930
+  }
+,
+  {
+    "request_num": 47,
+    "payload":     "medium_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000310,
+    "time_transfer_s": 0.000790,
+    "time_total_s":    0.003,
+    "speed_Bps":  71008319,
+    "speed_KBps": 69344.062,
+    "speed_MBps": 67.719
+  }
+,
+  {
+    "request_num": 48,
+    "payload":     "medium_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000280,
+    "time_transfer_s": 0.000660,
+    "time_total_s":    0.003,
+    "speed_Bps":  75817543,
+    "speed_KBps": 74040.569,
+    "speed_MBps": 72.305
+  }
+,
+  {
+    "request_num": 49,
+    "payload":     "medium_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000400,
+    "time_transfer_s": 0.000790,
+    "time_total_s":    0.003,
+    "speed_Bps":  69822427,
+    "speed_KBps": 68185.964,
+    "speed_MBps": 66.588
+  }
+,
+  {
+    "request_num": 50,
+    "payload":     "medium_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  204859,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000320,
+    "time_transfer_s": 0.000550,
+    "time_total_s":    0.003,
+    "speed_Bps":  78550230,
+    "speed_KBps": 76709.209,
+    "speed_MBps": 74.911
+  }
+,
+  {
+    "request_num": 51,
+    "payload":     "large_page.bin",
+    "attempt":     1,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.001730,
+    "time_total_s":    0.004,
+    "speed_Bps":  135608845,
+    "speed_KBps": 132430.513,
+    "speed_MBps": 129.327
+  }
+,
+  {
+    "request_num": 52,
+    "payload":     "large_page.bin",
+    "attempt":     2,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.001930,
+    "time_total_s":    0.004,
+    "speed_Bps":  128787475,
+    "speed_KBps": 125769.019,
+    "speed_MBps": 122.821
+  }
+,
+  {
+    "request_num": 53,
+    "payload":     "large_page.bin",
+    "attempt":     3,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000300,
+    "time_transfer_s": 0.001760,
+    "time_total_s":    0.004,
+    "speed_Bps":  133976714,
+    "speed_KBps": 130836.635,
+    "speed_MBps": 127.770
+  }
+,
+  {
+    "request_num": 54,
+    "payload":     "large_page.bin",
+    "attempt":     4,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.001900,
+    "time_total_s":    0.004,
+    "speed_Bps":  130129352,
+    "speed_KBps": 127079.445,
+    "speed_MBps": 124.101
+  }
+,
+  {
+    "request_num": 55,
+    "payload":     "large_page.bin",
+    "attempt":     5,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000320,
+    "time_transfer_s": 0.001770,
+    "time_total_s":    0.004,
+    "speed_Bps":  131634704,
+    "speed_KBps": 128549.516,
+    "speed_MBps": 125.537
+  }
+,
+  {
+    "request_num": 56,
+    "payload":     "large_page.bin",
+    "attempt":     6,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000450,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.001670,
+    "time_total_s":    0.004,
+    "speed_Bps":  133522555,
+    "speed_KBps": 130393.120,
+    "speed_MBps": 127.337
+  }
+,
+  {
+    "request_num": 57,
+    "payload":     "large_page.bin",
+    "attempt":     7,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000260,
+    "time_transfer_s": 0.001890,
+    "time_total_s":    0.004,
+    "speed_Bps":  131162654,
+    "speed_KBps": 128088.529,
+    "speed_MBps": 125.086
+  }
+,
+  {
+    "request_num": 58,
+    "payload":     "large_page.bin",
+    "attempt":     8,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000270,
+    "time_transfer_s": 0.001880,
+    "time_total_s":    0.004,
+    "speed_Bps":  130096291,
+    "speed_KBps": 127047.159,
+    "speed_MBps": 124.069
+  }
+,
+  {
+    "request_num": 59,
+    "payload":     "large_page.bin",
+    "attempt":     9,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000440,
+    "time_ttfb_s":     0.000390,
+    "time_transfer_s": 0.001340,
+    "time_total_s":    0.003,
+    "speed_Bps":  148079526,
+    "speed_KBps": 144608.912,
+    "speed_MBps": 141.220
+  }
+,
+  {
+    "request_num": 60,
+    "payload":     "large_page.bin",
+    "attempt":     10,
+    "protocol":    "QUIC/HTTP3",
+    "size_bytes":  512059,
+    "time_connect_s":  0.000460,
+    "time_ttfb_s":     0.000410,
+    "time_transfer_s": 0.001840,
+    "time_total_s":    0.004,
+    "speed_Bps":  125106035,
+    "speed_KBps": 122173.862,
+    "speed_MBps": 119.310
+  }
+]

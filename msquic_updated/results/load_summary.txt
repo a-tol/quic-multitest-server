@@ -1,0 +1,17 @@
+Load Test Summary — Sun Apr 26 21:14:22 UTC 2026
+Server: https://h3-server:4433
+
+Payload               Protocol  Avg TTFB(s)   Avg Total(s)  Avg Speed(MBps)
+─────────────────────────────────────────────────────────────────────
+100kb.bin             HTTP/2    0.0029        0.0031        32.2154       
+100kb.bin             HTTP/3    0.0000        0.0000        0.0000        
+1mb.bin               HTTP/2    0.0028        0.0038        262.0149      
+1mb.bin               HTTP/3    0.0000        0.0000        0.0000        
+5mb.bin               HTTP/2    0.0029        0.0079        638.4172      
+5mb.bin               HTTP/3    0.0000        0.0000        0.0000        
+large_page.bin        HTTP/2    0.0029        0.0056        499.5161      
+large_page.bin        HTTP/3    0.0000        0.0000        0.0000        
+medium_page.bin       HTTP/2    0.0028        0.0044        345.3342      
+medium_page.bin       HTTP/3    0.0000        0.0000        0.0000        
+small_page.bin        HTTP/2    0.0030        0.0035        135.9567      
+small_page.bin        HTTP/3    0.0000        0.0000        0.0000        

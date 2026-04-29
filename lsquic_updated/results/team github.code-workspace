@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../team github"
+		},
+		{
+			"name": "quic-multitest-server",
+			"path": "../../team github/quic-multitest-server"
+		}
+	],
+	"settings": {}
+}

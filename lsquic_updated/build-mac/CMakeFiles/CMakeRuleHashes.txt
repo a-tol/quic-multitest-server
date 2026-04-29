@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+f3b7ad2308e9250dac6422086ae5070a CMakeFiles/test-serial
+92319eb764315bfb9fbd9fa8ec80b2b7 src/liblsquic/lsquic_versions_to_string.c
