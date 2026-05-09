@@ -66,9 +66,9 @@ sudo docker compose down
 By default these are:
 
 
-litespeed-default: 17760
-litespeed-bbr: 17761
-litespeed-cubic: 17762
+- litespeed-default: 17760
+- litespeed-bbr: 17761
+- litespeed-cubic: 17762
 
 the login should be
 - username: admin
