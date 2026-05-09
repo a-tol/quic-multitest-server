@@ -63,15 +63,17 @@ sudo docker compose down
  in a container's folder to kill it.
 
 7) to access the admin server for configuration settings, access the server with the special "1776x" port noted in the docker-compose.yml file.
-By default these are
+By default these are:
+
+
 litespeed-default: 17760
 litespeed-bbr: 17761
 litespeed-cubic: 17762
 
 the login should be
-username: admin
-password: superstrongpassword
-by default
+- username: admin
+- password: superstrongpassword
+by default.
 
 (don't even try doing it on our the aws endpoint. i changed the password.)
 
@@ -83,9 +85,11 @@ This will require a custom cURL binary with HTTP3 integration, which can be down
 1) download the cURL binary.
 2) Query either the locally hosted endpoint from earlier with
 ```
-	/path/to/curl -k [--http3-only | --http3 ] [endpoint] [--output FILE]
+/path/to/curl -k [--http3-only | --http3 ] [endpoint] [--output FILE]
 ```
-	or one of (hopefully still hosted) endpoints, like
+
+or one of (hopefully still hosted) endpoints, like
+
 ```
-	/path/to/curl --http3-only -k https://ec2-13-222-23-193.compute-1.amazonaws.com:8444/file.txt
+/path/to/curl --http3-only -k https://ec2-13-222-23-193.compute-1.amazonaws.com:8444/file.txt
 ```
