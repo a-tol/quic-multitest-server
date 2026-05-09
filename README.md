@@ -36,7 +36,8 @@ https://localhost:8444/file.txt.
 4) to kill these server containers, run 
 ```
 sudo docker compose down 
-```in the ./h2o directory.
+```
+in the ./h2o directory.
 
 ## Building the OpenLiteSpeed Server Containers
 
