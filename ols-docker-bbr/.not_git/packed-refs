@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+88f2d7f4f661432b2b1ad5ea1793992fc71400f2 refs/remotes/origin/add-license-1
+562c69902c1c49af045b592257385a5ea06dd9ac refs/remotes/origin/master
+b9ad16bbcf798c8c9e32fd40f05f4c7533a105b2 refs/remotes/origin/newacme
+e2f3df1867387637b19105bbdab555a95385a609 refs/remotes/origin/revert-86-master
+b504ac6fd2ddc2876dc4c24c3193ede019ba59e4 refs/tags/v1.6.15
