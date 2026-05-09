@@ -1,35 +1,82 @@
-----building and running the container----
-1) generate a certificate/key pair first (if not using the ones in this folder); make sure their names match those in the dockerfile
-2) use docker build -t quic-multiserv .
-3) run the container:
-docker run -it -p 127.0.0.1:12345:12345/udp quic-multiserv
-alternatively modify the entrypoint:
-docker run -it -p 127.0.0.1:12345:12345/udp -p 127.0.0.1:27016:27016/udp --entrypoint="cli -c /src/certs/cert.pem -k /src/certs/key.pem 127.0.0.1 27016" quic-multiserv
+You will need quite a few things to run these experiments.
+1) python
+2) docker
+3) node
+4) a custom cURL build with HTTP3 support (not included in the standard Ubuntu)
+5) a bunch of specifically open ports?
+
+Steps to running the servers.
+1) Have docker installed
+2) in the ./h2o directory, run "sudo docker compose build" to create the server images.
+3) run "sudo docker compose up" to create the server containers.
+
+	- To change what ports are hosting the servers on your local machine, change the "xxxx" field in the xxxx:yyyy HOST:PORT in the "ports" tag
+	of the docker-compose.yml file.
+	- The default host:port mappings for the HTTP3 endpoints are:
+		h2o-server: 8444
+		h2o-pico-server: 8446
+		h2o-cubic-server: 8448
+	the servers will host files on these ports via QUIC/HTTP3 (NO TCP FALLBACK).
+	an alternative TCP host is available with every container and is hosted with the same hostname but subtract 1 from the QUIC port number.
+	
+these servers should be accessible as:
+	https://localhost:8444/file.txt
+	(replace file.txt with any of the payload names).
+	
+4) to kill these servers, run sudo docker compose down in the ./h2o directory.
 
 
-----actually querying stuff with a QUIC client----
-i managed to build the lsquic http client after much trouble.
-best follow the readme to build the boringssl libraries,
-BUT then you need to build stuff manually
 
-0) install libevent-ssl
+5) in EACH ols-docker-env folder, run "sudo docker compose up" to run its container.
+the docker process should download the base image and run it. all of the configuration to change the server settings
+is already provided; each folder is named after the congestion control algorithm used in the container.
 
-1) install go
+To change what ports are hosting the servers on your local machine, similarly change the "xxxx" field in the xxxx:yyyy HOST:PORT in the "ports" tag
+of the docker-compose.yml file, except this would have to be done on the individual folder level. Ports hosts BOTH HTTP/2 and HTTP/3.
+The default host:port mappings are:
+litespeed-default: 27015
+litespeed-bbr: 27016
+litespeed-cubic: 27017
 
-2) set your cwd to the lsquic repo
+these servers should be accessible as:
+	https://localhost:27015/file.txt
+	(replace file.txt with any of the payload names).
 
-git clone https://github.com/litespeedtech/lsquic.git
-cd lsquic
+6) run "sudo docker compose down" in a container's folder to kill it.
+7) to access the admin server for configurations, access the server with the special "1776x" port noted in the docker-compose.yml file.
+By default these are
+litespeed-default: 17760
+litespeed-bbr: 17761
+litespeed-cubic: 17762
+the login is
+username: admin
+password: superstrongpassword
 
-2) make boringssl:
-git clone --depth=1 https://github.com/google/boringssl.git
-cd boringssl
-cmake .
-make
+(don't even try doing it on the aws endpoint. i changed the password)
 
-3) go back to lsquic and make the example stuff
-cd ..
-#this assumes you are now in the lsquic repo root
-git submodule update --init
-cmake -DLIBSSL_DIR= ./boringssl
-make
+--------------------------------
+Running the HTTP3 Client/Network Experiments
+--------------------------------
+This requires 2 things.
+a) a custom cURL binary with http3 integration, which can be downloaded from
+https://github.com/stunnel/static-curl
+or the one used here.
+
+b) a python virtual environment, inside of which the source for the test files is placed,
+which is probably the one pulled from https://github.com/a-tol/quic-benchmarks
+
+1) download the cURL binary.
+2) you can query either the locally hosted endpoint from earlier with
+	/path/to/curl -k [--http3-only | --http3 ] [endpoint] [--output FILE]
+	or one of (hopefully still hosted) endpoints, like
+	/path/to/curl --http3-only -k https://ec2-13-222-23-193.compute-1.amazonaws.com:8444/file.txt
+
+3) pull the tester source code from github or use the included folder (if it still works)
+4) make a python virtual environment
+	mkdir env
+	python -m venv ./env
+5) move the tester code into the environment
+6) cd chrome, npm i
+7) install dependencies in ./quic-benchmarks/:
+	../bin/pip install -r ./reqirements.txt
+8) sudo bash run_benchmarks.sh
